@@ -1,0 +1,10 @@
+# IntelliJ IDE Settings
+/.idea
+
+# Python
+/venv
+
+# Other
+/tests
+/linux-ready
+drivers.txt
